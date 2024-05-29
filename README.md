@@ -1,3 +1,5 @@
+Note : Repository ini dibuat untuk penilaian pihak kampus terkait project yang dikerjakan selama SIKM
+
 # Database Management
 
 ## Student Portal Final DB
